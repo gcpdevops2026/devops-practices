@@ -1,0 +1,2 @@
+vm machine
+vm size
